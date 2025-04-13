@@ -1,4 +1,4 @@
-package decorator;
+package estudoPadroesProjetos.decorator;
 
 public class Expresso extends Beverage {
 	
